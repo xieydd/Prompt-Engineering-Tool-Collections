@@ -5,6 +5,7 @@ With the rise of ChatGPT and some large generative models, the emergence of COT 
 ### Translation
 
 - [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) Bob Plugin for Text Translation, Text Polishing and Grammar Correction Based on ChatGPT API. Which I mainly use as accurate translation.
+- [yetone/openai-translator](https://github.com/yetone/openai-translator) ChatGPT API-based Word Translator Chrome Plugin. 
 
 ### Text Polishing
 
